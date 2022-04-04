@@ -7646,8 +7646,25 @@ textarea.form-control-lg {
 
 .w-100 {
   width: 100% !important;
-}
 
+}
+@media only screen and (max-width: 480px) {
+  .w-100 {
+      width: 100%;
+      height: 300px;
+    object-fit: cover;
+    object-position: bottom;
+  
+    }
+  }
+  @media only screen and (max-width: 786px) {
+    .w-100 {
+        width: 100%;
+        height: 300px;
+      object-position: center;
+    
+      }
+    }
 .w-auto {
   width: auto !important;
 }
@@ -12664,10 +12681,7 @@ img.img-grayTransition:hover {
 }
 
 /* 6.5 Image Fit Helpers */
-img.fit-cover {
-  -o-object-fit: cover;
-     object-fit: cover;
-}
+
 
 img.fit-left-top {
   -o-object-position: left top;

@@ -7712,6 +7712,19 @@ textarea.form-control-lg {
 .min-vh-100 {
   min-height: 100vh !important;
 }
+@media only screen and (max-width: 480px) {
+  .min-vh-100 {
+     min-height: 140vh !important;
+  
+    }
+  }
+  @media only screen and (max-width: 786px) {
+    .min-vh-100 {
+        padding-top: 50px;
+    
+      }
+    }
+
 
 .flex-fill {
   -webkit-box-flex: 1 !important;

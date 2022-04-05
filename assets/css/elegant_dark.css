@@ -5833,7 +5833,7 @@ fieldset:disabled .btn {
 
 .form-control:focus {
   color: #01010D;
-  background-color: #fff;
+  
   border-color: #86b7fe;
   outline: 0;
   -webkit-box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
@@ -7715,6 +7715,18 @@ textarea.form-control-lg {
 .min-vh-100 {
   min-height: 100vh !important;
 }
+@media only screen and (max-width: 480px) {
+  .min-vh-100 {
+     min-height: 140vh !important;
+  
+    }
+  }
+  @media only screen and (max-width: 786px) {
+    .min-vh-100 {
+        padding-top: 50px;
+    
+      }
+    }
 
 .flex-fill {
   -webkit-box-flex: 1 !important;
@@ -12164,7 +12176,7 @@ textarea.form-control-lg {
 
 .form-control:focus {
   color: var(--elegant-input-focus-color);
-  background-color: var(--elegant-input-focus-background);
+  
   border-color: var(--elegant-input-focus-border);
   -webkit-box-shadow: 0 0 0 0.25rem var(--elegant-input-focus-shadow);
           box-shadow: 0 0 0 0.25rem var(--elegant-input-focus-shadow);

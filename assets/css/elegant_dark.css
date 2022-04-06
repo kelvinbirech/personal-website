@@ -88,7 +88,7 @@
   --elegant-accordion-button-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-accordion-button-active-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%232c61cb'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-input-color: #fff;
-  --elegant-input-background: #01010D;
+  --elegant-input-background: #15202B;
   --elegant-input-border: #316ce2;
   --elegant-input-focus-color: #fff;
   --elegant-input-focus-background: #fff;
@@ -121,7 +121,7 @@
   --elegant-accordion-button-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-accordion-button-active-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23807ec2'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-input-color: #fff;
-  --elegant-input-background: #01010D;
+  --elegant-input-background: #15202B;
   --elegant-input-border: #8e8cd8;
   --elegant-input-focus-color: #fff;
   --elegant-input-focus-background: #fff;
@@ -154,7 +154,7 @@
   --elegant-accordion-button-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-accordion-button-active-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23684598'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-input-color: #fff;
-  --elegant-input-background: #01010D;
+  --elegant-input-background: #15202B;
   --elegant-input-border: #744da9;
   --elegant-input-focus-color: #fff;
   --elegant-input-focus-background: #fff;
@@ -187,7 +187,7 @@
   --elegant-accordion-button-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-accordion-button-active-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%237a1589'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-input-color: #fff;
-  --elegant-input-background: #01010D;
+  --elegant-input-background: #15202B;
   --elegant-input-border: #881798;
   --elegant-input-focus-color: #fff;
   --elegant-input-focus-background: #fff;
@@ -220,7 +220,7 @@
   --elegant-accordion-button-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-accordion-button-active-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23e6a700'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-input-color: #fff;
-  --elegant-input-background: #01010D;
+  --elegant-input-background: #15202B;
   --elegant-input-border: #ffb900;
   --elegant-input-focus-color: #fff;
   --elegant-input-focus-background: #fff;
@@ -253,7 +253,7 @@
   --elegant-accordion-button-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-accordion-button-active-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23d68f26'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-input-color: #fff;
-  --elegant-input-background: #01010D;
+  --elegant-input-background: #15202B;
   --elegant-input-border: #ee9f2a;
   --elegant-input-focus-color: #fff;
   --elegant-input-focus-background: #fff;
@@ -286,7 +286,7 @@
   --elegant-accordion-button-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-accordion-button-active-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23b32424'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-input-color: #fff;
-  --elegant-input-background: #01010D;
+  --elegant-input-background: #15202B;
   --elegant-input-border: #c72828;
   --elegant-input-focus-color: #fff;
   --elegant-input-focus-background: #fff;
@@ -319,7 +319,7 @@
   --elegant-accordion-button-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-accordion-button-active-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23e63c3c'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-input-color: #fff;
-  --elegant-input-background: #01010D;
+  --elegant-input-background: #15202B;
   --elegant-input-border: #ff4343;
   --elegant-input-focus-color: #fff;
   --elegant-input-focus-background: #fff;
@@ -352,7 +352,7 @@
   --elegant-accordion-button-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-accordion-button-active-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%2305766c'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-input-color: #fff;
-  --elegant-input-background: #01010D;
+  --elegant-input-background: #15202B;
   --elegant-input-border: #058378;
   --elegant-input-focus-color: #fff;
   --elegant-input-focus-background: #fff;
@@ -385,7 +385,7 @@
   --elegant-accordion-button-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-accordion-button-active-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23415e56'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-input-color: #fff;
-  --elegant-input-background: #01010D;
+  --elegant-input-background: #15202B;
   --elegant-input-border: #486860;
   --elegant-input-focus-color: #fff;
   --elegant-input-focus-background: #fff;
@@ -418,7 +418,7 @@
   --elegant-accordion-button-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-accordion-button-active-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23177a4c'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-input-color: #fff;
-  --elegant-input-background: #01010D;
+  --elegant-input-background: #15202B;
   --elegant-input-border: #198754;
   --elegant-input-focus-color: #fff;
   --elegant-input-focus-background: #fff;
@@ -451,7 +451,7 @@
   --elegant-accordion-button-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-accordion-button-active-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%230cb583'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-input-color: #fff;
-  --elegant-input-background: #01010D;
+  --elegant-input-background: #15202B;
   --elegant-input-border: #0dc991;
   --elegant-input-focus-color: #fff;
   --elegant-input-focus-background: #fff;
@@ -484,7 +484,7 @@
   --elegant-accordion-button-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-accordion-button-active-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23495360'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-input-color: #fff;
-  --elegant-input-background: #01010D;
+  --elegant-input-background: #15202B;
   --elegant-input-border: #515c6b;
   --elegant-input-focus-color: #fff;
   --elegant-input-focus-background: #fff;
@@ -517,7 +517,7 @@
   --elegant-accordion-button-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-accordion-button-active-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%231f1f1f'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-input-color: #fff;
-  --elegant-input-background: #01010D;
+  --elegant-input-background: #15202B;
   --elegant-input-border: #222222;
   --elegant-input-focus-color: #fff;
   --elegant-input-focus-background: #fff;
@@ -550,7 +550,7 @@
   --elegant-accordion-button-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-accordion-button-active-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23c7cfcc'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-input-color: #fff;
-  --elegant-input-background: #01010D;
+  --elegant-input-background: #15202B;
   --elegant-input-border: #dde6e3;
   --elegant-input-focus-color: #fff;
   --elegant-input-focus-background: #fff;
@@ -583,7 +583,7 @@
   --elegant-accordion-button-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-accordion-button-active-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23285b71'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
   --elegant-input-color: #fff;
-  --elegant-input-background: #01010D;
+  --elegant-input-background: #15202B;
   --elegant-input-border: #2c657d;
   --elegant-input-focus-color: #fff;
   --elegant-input-focus-background: #fff;
@@ -627,7 +627,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: #fff;
-  background-color: rgb(8, 8, 24);
+  background-color: #15202B;
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
@@ -1165,7 +1165,7 @@ progress {
 
 .img-thumbnail {
   padding: 0.25rem;
-  background-color: #01010D;
+  background-color: #15202B;
   border: 1px solid #dee2e6;
   border-radius: 0.25rem;
   max-width: 100%;
@@ -3757,8 +3757,8 @@ fieldset:disabled .btn {
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
   color: #495057;
-  background-color: #01010D;
-  border-color: #dee2e6 #dee2e6 #01010D;
+  background-color: #15202B;
+  border-color: #dee2e6 #dee2e6 #15202B;
 }
 
 .nav-tabs .dropdown-menu {
@@ -4737,7 +4737,7 @@ fieldset:disabled .btn {
   display: block;
   padding: 1rem 1rem;
   color: #fff;
-  background-color: #01010D;
+  background-color: #15202B;
   border: 1px solid #2f2f2f;
 }
 
@@ -4754,7 +4754,7 @@ fieldset:disabled .btn {
 .list-group-item.disabled, .list-group-item:disabled {
   color: #6c757d;
   pointer-events: none;
-  background-color: #01010D;
+  background-color: #15202B;
 }
 
 .list-group-item.active {
@@ -5803,7 +5803,7 @@ fieldset:disabled .btn {
   font-weight: 400;
   line-height: 1.5;
   color: #fff;
-  background-color: #01010D;
+  background-color: #15202B;
   background-clip: padding-box;
   border: 1px solid #dee2e6;
   -webkit-appearance: none;
@@ -5832,7 +5832,7 @@ fieldset:disabled .btn {
 }
 
 .form-control:focus {
-  color: #01010D;
+  color: #15202B;
   
   border-color: #86b7fe;
   outline: 0;
@@ -6216,12 +6216,12 @@ textarea.form-control-lg {
 }
 
 .form-range:focus::-webkit-slider-thumb {
-  -webkit-box-shadow: 0 0 0 1px #01010D, 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
-          box-shadow: 0 0 0 1px #01010D, 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+  -webkit-box-shadow: 0 0 0 1px #15202B, 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+          box-shadow: 0 0 0 1px #15202B, 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
 }
 
 .form-range:focus::-moz-range-thumb {
-  box-shadow: 0 0 0 1px #01010D, 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+  box-shadow: 0 0 0 1px #15202B, 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
 }
 
 .form-range::-moz-focus-outer {
@@ -7207,7 +7207,7 @@ textarea.form-control-lg {
   font-size: 1rem;
   color: #6f737b;
   text-align: left;
-  background-color: #01010D;
+  background-color: #15202B;
   border: 0;
   border-radius: 0;
   overflow-anchor: none;
@@ -7226,7 +7226,7 @@ textarea.form-control-lg {
 
 .accordion-button:not(.collapsed) {
   color: #fff;
-  background-color: #01010D;
+  background-color: #15202B;
   -webkit-box-shadow: inset 0 0 0 #6f737b;
           box-shadow: inset 0 0 0 #6f737b;
 }
@@ -7277,7 +7277,7 @@ textarea.form-control-lg {
 }
 
 .accordion-item {
-  background-color: #01010D;
+  background-color: #15202B;
   border: 0 solid #6f737b;
 }
 
@@ -8604,7 +8604,7 @@ textarea.form-control-lg {
 }
 
 .bg-body {
-  background-color: #01010D !important;
+  background-color: #15202B !important;
 }
 
 .bg-white {
@@ -12133,7 +12133,7 @@ textarea.form-control-lg {
             transform: scale(0);
   }
   100% {
-    background: #01010D;
+    background: #15202B;
   }
 }
 
@@ -12144,7 +12144,7 @@ textarea.form-control-lg {
             transform: scale(0);
   }
   100% {
-    background: #01010D;
+    background: #15202B;
   }
 }
 
@@ -12205,7 +12205,7 @@ section {
 }
 
 section.secondary-section {
-  background-color: #000c1b;
+  background-color: #15202B;
   color: #fff;
 }
 
@@ -12656,7 +12656,7 @@ section.section_background {
             transform: scale(0);
   }
   100% {
-    background: #01010D;
+    background: #15202B;
   }
 }
 
@@ -12748,7 +12748,7 @@ img.fit-right-top {
 
 /* 6.8 Preloader */
 #preloader {
-  background-color: #01010D;
+  background-color: #15202B;
   width: 100%;
   height: 100%;
   z-index: 9999999;
@@ -12970,7 +12970,7 @@ body.loaded #preloader {
   -webkit-transition: all .15s ease-in-out;
   transition: all .15s ease-in-out;
   line-height: 45px;
-  background-color: #000c1b;
+  background-color: #15202B;
   color: #fff;
   font-size: 1.2em;
 }
@@ -13107,7 +13107,7 @@ header.elegant-header .header-inside {
   position: absolute;
   top: 0;
   left: 0;
-  background-color: rgb(8, 8, 24);
+  background-color: #15202B;
   -webkit-transition: background-color .3s ease-in-out;
   transition: background-color .3s ease-in-out;
 }
@@ -13271,7 +13271,7 @@ header.elegant-header .header-inside .elegant-menu-toggler, header.elegant-heade
 
 #color-switcher a.switch-layout.active {
   background-color: #fff;
-  color: #01010D;
+  color: #15202B;
 }
 
 #color-switcher .switcher-button {
@@ -13293,7 +13293,7 @@ header.elegant-header .header-inside .elegant-menu-toggler, header.elegant-heade
 #color-switcher .switcher-area {
   padding: 15px 25px;
   width: 250px;
-  background-color: #01010D;
+  background-color: #15202B;
   -webkit-box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.2);
           box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.2);
 }

@@ -7646,6 +7646,9 @@ textarea.form-control-lg {
 
 .w-100 {
   width: 100% !important;
+  object-fit: cover;
+  height: auto;
+ 
 
 }
 @media only screen and (max-width: 480px) {
